@@ -1,2 +1,3 @@
-# nnet_dtree
-Machine Learning course assignment 3
+# Neural Networks \& Decision Trees
+
+Implementation of decision tree and neural networks for ML course at IIT Delhi
